@@ -1,0 +1,16 @@
+# Data manipulation
+pandas==2.0.3
+numpy==1.23.5
+
+# Database access
+SQLAlchemy==1.4.41
+psycopg2==2.9.5
+
+# Geospatial libraries
+geopandas==0.10.2
+shapely==1.8.1
+fiona==1.8.21
+pyproj==3.3.0
+
+# Jupyter
+jupyterlab==3.4.8
