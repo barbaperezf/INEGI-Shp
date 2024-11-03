@@ -8,11 +8,11 @@ Este proyecto configura un entorno JupyterLab en un contenedor Docker, listo par
 
 ## Instrucciones
 
-### 1. Clonar el repositorio (si es necesario)
+### 1. Crear un fork y clonar tu propio repositorio 
 
 ```bash
 cd path/donde/quieres/tu/repositorio
-git clone git@github.com:Emilia-Hernandez/INEGI-Shp.git
+git clone git@ssh_de_tu_repo
 ```
 
 ### 2. Construir la Imagen Docker
