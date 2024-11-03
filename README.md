@@ -12,12 +12,13 @@ Este proyecto configura un entorno JupyterLab en un contenedor Docker, listo par
 
 ```bash
 cd path/donde/quieres/tu/repositorio
-git clone <URL_DEL_REPOSITORIO>
-cd <NOMBRE_DEL_REPOSITORIO>```
+git clone git@github.com:Emilia-Hernandez/INEGI-Shp.git
+```
 
 ### 2. Construir la Imagen Docker
 Ejecuta el siguiente comando en el terminal para construir la imagen Docker. Este comando descargará las dependencias necesarias y configurará el entorno. Se debe usar este preciso comando
-```docker build -t jupyter-geospatial . ```
+```docker build -t jupyter-geospatial . 
+```
 
 ### 3. Ejecutar el Contenedor
 Una vez que la imagen se haya construido correctamente, ejecuta el siguiente comando para iniciar el contenedor:
