@@ -19,7 +19,8 @@ git clone git@ssh_de_tu_repo
 ```
 ### 2. Descargar datos
 Descarga los datos desde [este enlace](https://drive.google.com/drive/folders/12TlCjAGX-ugtGkvumdibX7RHO-g_TXif?usp=sharing).
-Guárdalos en tu repositorio. 
+Si tienes Mac, guárdalos en tu repositorio. 
+Si tienes Linux, descargar datos y descomprimirlos en windows. Copiarlos a tu git clone de tu fork en ubuntu.
 
 ### 3. Construir la Imagen Docker
 Ejecuta el siguiente comando en el terminal para construir la imagen Docker. Este comando descargará las dependencias necesarias y configurará el entorno. Se debe usar este preciso comando
