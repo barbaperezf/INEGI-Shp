@@ -11,6 +11,7 @@ geopandas==0.10.2
 shapely==1.8.1
 fiona==1.8.21
 pyproj==3.3.0
+matplotlib
 
 # Jupyter
 jupyterlab==3.4.8
