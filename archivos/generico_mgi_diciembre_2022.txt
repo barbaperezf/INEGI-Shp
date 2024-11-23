@@ -1,0 +1,30 @@
+Identifier:  
+
+Title: Marco Geoestadístico Integrado, diciembre 2022.
+
+Description: Marco Geoestadístico Integrado (MGI) es un sistema que incluye información vectorial, tablas de atributos y catálogos.
+Su cobertura es la parte del Territorio Nacional que corresponde a la superficie continental y aquellas islas marítimas que tienen o tuvieron alguna unidad de observación de interés para censos y/o encuestas. Representa dicha cobertura en niveles sucesivos de desagregación, denominados áreas geoestadísticas. Éstas, a su vez, están definidas por los llamados límites geoestadísticos, que se establecen con base en la normatividad específica del MGI. 
+Los límites del Marco Geoestadístico Integrado se han definido con el propósito específico de referenciar geográficamente la información de censos y encuestas del INEGI, para lo cual tiene reglas propias respecto a la consistencia geométrica de sus polígonos. En ningún caso o uso que se le dé a este producto, se le debe asumir como fuente oficial de la división político-administrativa del país.
+
+
+Modified: 2022-11-30
+
+Publisher: Instituto Nacional de Estadística y Geografía, INEGI.
+
+Mbox: atencion.usuarios@inegi.org.mx
+
+License: https://www.inegi.org.mx/inegi/terminos.html
+
+DataDictionary: 
+
+Keyword: Keyword: “AGEB Área Geoestadística Básica”, “AGEE Área Geoestadística Estatal”, “AGEM Área Geoestadística Municipal”, “Caserío Disperso”, “Ejes de Vialidad”, “Frentes de Manzana”, “Integración Territorial”, “Límite Geoestadístico”, “Límite Político Administrativo”, “Localidad Amanzanada”, “Localidad Rural Puntual”, “Manzana”, “Polígono Externo”, “Polígono Externo de Manzana”,  “Servicio Tipo Área”, “Servicio Tipo Línea”, “Servicio Tipo Punto”.
+
+ContactPoint: Mtro. J. Armando Aguiar Rodríguez, 800 111 4634.
+
+Temporal: 2021-10-01-2022-09-30
+
+Spatial: Estados Unidos Mexicanos.
+
+AccrualPeriodicity: Irregular.
+
+Distribution: https://www.inegi.org.mx/app/mapas/?t=0170000000000000
