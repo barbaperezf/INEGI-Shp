@@ -23,7 +23,7 @@ cd path/donde/quieres/tu/repositorio
 git clone git@ssh_de_tu_repo
 ```
 ### 2. Descargar datos
-Descarga los datos desde [este enlace](https://drive.google.com/drive/folders/12TlCjAGX-ugtGkvumdibX7RHO-g_TXif?usp=sharing).
+Descarga los datos desde [este enlace](https://drive.google.com/drive/folders/12TlCjAGX-ugtGkvumdibX7RHO-g_TXif?usp=sharing)./n
 Si tienes Mac, guárdalos en tu repositorio. 
 Si tienes Linux/Ubuntu:
 - Descargar datos y descomprimirlos en windows, como con cualquier otros datos.
