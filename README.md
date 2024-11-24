@@ -50,3 +50,18 @@ Este comando inicia el contenedor y expone JupyterLab en el puerto 8888.
 Abre tu navegador y dirígete a la siguiente dirección para acceder a JupyterLab:
 ```http://127.0.0.1:8888/lab```
 No se requiere un token ni contraseña, ya que el contenedor está configurado para permitir acceso directo.
+
+## Estructura del Proyecto
+INEGI-Shp/
+├── ShapeFilesFiles/         # Aqui deberan estar las carpetas de los archivos que descargaste, Estados y servicios_de_salud_shp con sus contenidos.
+├── Tareas/                  # Donde trabajaras tu tarea.
+├── Clase.ipynb             # Archivo de la clase
+├── Dockerfile              # Docker para construir imagen
+├── README.md              # Documentación, instrucciones.
+└── requirements.txt       # Requerimientos del docker.
+## Tarea
+Funciona igual que como lo hemos hecho a lo largo del semestre.<br>
+En el fork y git clone, creas un branch. <br>
+Creas la carpeta con tu clave unica en la carpeta tareas y copias la Clase.ipynb, sobre esta copia en TU carpeta es donde vas a trabajar la tarea, que esta al final de la clase. <br>
+Una vez hecha la tarea, la pusheas a tu repo haciendo merge de tu branch a tu main, luego de tu main al main de nuestro repositorio.
+
