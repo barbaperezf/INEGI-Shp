@@ -28,10 +28,10 @@ Guardalos en la carpeta ShapeFilesFiles del repo como se indica: <br>
 Si tienes Mac, solo guárdalos en tu repositorio. <br>
 Si tienes Linux/Ubuntu:
 - Descargar datos y descomprimirlos en windows, como con cualquier otros datos.
-- Copiar las carpetas descomprimidas a la carpeta ShapeFilesFiles en tu git clone de tu fork en ubuntu. (Una forma fácil es draggear los archivos usando VSCode, abre VScode desde ubuntu en tu git clone, dragea los archivos desde windows al VScode)
-- Crear la imagen del Docker una vez que esten copiados para que funcione el jupyter.
+- Copiar las carpetas descomprimidas (Estados y servicios_de_salud_shp) a la carpeta ShapeFilesFiles en tu git clone de tu fork en ubuntu. (Una forma fácil es draggear los archivos usando VSCode, abre VScode desde ubuntu en tu git clone, dragea los archivos desde windows al VScode)
+- Crear la imagen del Docker una vez que esten copiados los archivos.
 
-Notar que para que funcione la Clase el docker debe poder tener acceso a los archivos.
+Importante! Notar que para que funcione la Clase el docker debe poder tener acceso a los archivos.
 Debido al peso de los archivos, no se pueden subir al github como tal.
 
 ### 3. Construir la Imagen Docker
@@ -54,8 +54,8 @@ No se requiere un token ni contraseña, ya que el contenedor está configurado p
 ## Estructura del Proyecto
 ```plaintext
 INEGI-Shp/
-├── ShapeFilesFiles/         # Aqui deberan estar las carpetas de los archivos que descargaste, Estados y servicios_de_salud_shp con sus contenidos.
-├── Tareas/                  # Donde trabajaras tu tarea.
+├── ShapeFilesFiles/         # Aqui deberán estar las carpetas de los archivos que descargaste, Estados y servicios_de_salud_shp con sus contenidos.
+├── Tareas/                  # Donde realizarás tu tarea.
 ├── Clase.ipynb              # Archivo de la clase
 ├── Dockerfile               # Docker para construir imagen
 ├── README.md                # Documentación, instrucciones.
@@ -65,6 +65,6 @@ INEGI-Shp/
 ## Tarea
 Funciona igual que como lo hemos hecho a lo largo del semestre.<br>
 En el fork y tu git clone, creas un branch. <br>
-Creas la carpeta con tu clave unica en la carpeta tareas y copias la Clase.ipynb, sobre esta copia en TU carpeta es donde vas a trabajar la tarea, que esta al final de la clase. <br>
+Creas la carpeta con tu clave única en la carpeta tareas y copias la Clase.ipynb, sobre esta copia en TU carpeta es donde vas a trabajar la tarea, que esta al final de la clase. <br>
 Una vez hecha la tarea, la pusheas a tu repo haciendo merge de tu branch a tu main, luego de tu main al main de nuestro repositorio.
 
