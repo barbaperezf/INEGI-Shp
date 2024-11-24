@@ -52,6 +52,7 @@ Abre tu navegador y dirígete a la siguiente dirección para acceder a JupyterLa
 No se requiere un token ni contraseña, ya que el contenedor está configurado para permitir acceso directo.
 
 ## Estructura del Proyecto
+```plaintext
 INEGI-Shp/
 ├── ShapeFilesFiles/         # Aqui deberan estar las carpetas de los archivos que descargaste, Estados y servicios_de_salud_shp con sus contenidos.
 ├── Tareas/                  # Donde trabajaras tu tarea.
@@ -59,6 +60,8 @@ INEGI-Shp/
 ├── Dockerfile              # Docker para construir imagen
 ├── README.md              # Documentación, instrucciones.
 └── requirements.txt       # Requerimientos del docker.
+```
+
 ## Tarea
 Funciona igual que como lo hemos hecho a lo largo del semestre.<br>
 En el fork y git clone, creas un branch. <br>
