@@ -25,7 +25,14 @@ git clone git@ssh_de_tu_repo
 ### 2. Descargar datos
 Descarga los datos desde [este enlace](https://drive.google.com/drive/folders/12TlCjAGX-ugtGkvumdibX7RHO-g_TXif?usp=sharing).
 Si tienes Mac, guárdalos en tu repositorio. 
-Si tienes Linux, descargar datos y descomprimirlos en windows. Copiarlos a tu git clone de tu fork en ubuntu.
+Si tienes Linux/Ubuntu:
+- Descargar datos y descomprimirlos en windows, como con cualquier otros datos.
+- Crea carpeta ShapeFilesFiles en tu git clone del fork del repositorio (Asi no tendras que modificar ningún path)
+- Copiar las carpetas descomprimidas a la carpeta ShapeFilesFiles en tu git clone de tu fork en ubuntu. (Una forma fácil es draggear los archivos desde VSCode)
+- Crear la imagen del Docker una vez que esten copiados para que funcione el jupyter.
+
+Notar que para que funcione la Clase el docker debe poder tener acceso a los archivos.
+Debido al peso de los archivos, no se pueden subir al github como tal.
 
 ### 3. Construir la Imagen Docker
 Ejecuta el siguiente comando en el terminal para construir la imagen Docker. Este comando descargará las dependencias necesarias y configurará el entorno. Se debe usar este preciso comando
