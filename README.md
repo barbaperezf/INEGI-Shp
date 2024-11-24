@@ -3,7 +3,7 @@
 Este proyecto configura un entorno JupyterLab en un contenedor Docker, listo para trabajar con datos geoespaciales. Sigue los pasos a continuación para construir la imagen Docker, ejecutar el contenedor y acceder a JupyterLab.
 
 ## Presentación
-Puedes acceder a la presentación desde [este enlace][(https://www.canva.com/design/DAGXKbWfQb8/kxijUliN-Ureeskl60ShoA/edit?utm_content=DAGXKbWfQb8&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)].
+Puedes acceder a la presentación desde [este enlace](https://www.canva.com/design/DAGXKbWfQb8/kxijUliN-Ureeskl60ShoA/edit?utm_content=DAGXKbWfQb8&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton).
 
 ## Equipo
 - Diego Méndez
