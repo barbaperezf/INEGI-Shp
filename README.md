@@ -29,7 +29,7 @@ Si tienes Mac, guárdalos en tu repositorio. <br>
 Si tienes Linux/Ubuntu:
 - Descargar datos y descomprimirlos en windows, como con cualquier otros datos.
 - Crea carpeta ShapeFilesFiles en tu git clone del fork del repositorio (Asi no tendras que modificar ningún path)
-- Copiar las carpetas descomprimidas a la carpeta ShapeFilesFiles en tu git clone de tu fork en ubuntu. (Una forma fácil es draggear los archivos desde VSCode)
+- Copiar las carpetas descomprimidas a la carpeta ShapeFilesFiles en tu git clone de tu fork en ubuntu. (Una forma fácil es draggear los archivos usando VSCode, abre VScode desde ubuntu en tu git clone, dragea los archivos desde windows al VScode)
 - Crear la imagen del Docker una vez que esten copiados para que funcione el jupyter.
 
 Notar que para que funcione la Clase el docker debe poder tener acceso a los archivos.
