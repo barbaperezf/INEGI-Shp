@@ -69,7 +69,7 @@ INEGI-Shp/
 ## Tarea
 Funciona igual que como lo hemos hecho a lo largo del semestre.<br>
 En el fork y tu git clone, creas un branch. <br>
-Creas la carpeta con tu clave única en la carpeta tareas y copias la Clase.ipynb, sobre esta copia en TU carpeta es donde vas a trabajar la tarea, que esta al final de la clase. <br>
+Creas la carpeta con tu clave única en la carpeta tareas y copias la Tarea.ipynb, sobre esta copia en TU carpeta es donde vas a trabajar la tarea. <br>
 Una vez hecha la tarea, la pusheas a tu repo haciendo merge de tu branch a tu main, luego de tu main al main de nuestro repositorio.
 La tarea se entregará, a más tardar, el viernes 29 de noviembre a las 11:59 PM. 
 
