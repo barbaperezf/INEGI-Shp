@@ -1,6 +1,10 @@
 # Proyecto INEGI-Shapefiles
 
 Este proyecto configura un entorno JupyterLab en un contenedor Docker, listo para trabajar con datos geoespaciales. Sigue los pasos a continuación para construir la imagen Docker, ejecutar el contenedor y acceder a JupyterLab.
+
+## Presentación
+Puedes acceder a la presentación desde [este enlace](https://www.canva.com/design/DAGXKbWfQb8/kxijUliN-Ureeskl60ShoA/edit?utm_content=DAGXKbWfQb8&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton).
+
 ## Equipo
 - Diego Méndez
 - Eduardo García
@@ -65,6 +69,7 @@ INEGI-Shp/
 ## Tarea
 Funciona igual que como lo hemos hecho a lo largo del semestre.<br>
 En el fork y tu git clone, creas un branch. <br>
-Creas la carpeta con tu clave única en la carpeta tareas y copias la Clase.ipynb, sobre esta copia en TU carpeta es donde vas a trabajar la tarea, que esta al final de la clase. <br>
+Creas la carpeta con tu clave única en la carpeta tareas y copias la Tarea.ipynb, sobre esta copia en TU carpeta es donde vas a trabajar la tarea. <br>
 Una vez hecha la tarea, la pusheas a tu repo haciendo merge de tu branch a tu main, luego de tu main al main de nuestro repositorio.
+La tarea se entregará, a más tardar, el viernes 29 de noviembre a las 11:59 PM. 
 
